@@ -24,25 +24,6 @@ Behold the columns that hold the secrets of our employees' stories:
 - **`awards_won`**: Celebrate the champions adorned with awards.
 - **`avg_training_score`**: Quantify the quest for excellence through average training scores.
 
-## 📝 SQL Queries: Unleashing the Magic
-
-Our quest for insights is fueled by SQL incantations that bring data to life:
-
-1. **Data Odyssey:**
-   - Calculate the total records and unveil the count of unique employees.
-   - Map the terrain by exploring distinct departments and regions.
-
-2. **Statistical Alchemy:**
-   - Conjure descriptive statistics like mean, median, and more for chosen columns.
-   - Paint the portrait of age and service length distribution with enchanting charts.
-
-3. **Education Elixir and Gender Magic:**
-   - Brew a potion of education distribution and unveil the gender balance.
-   - Peer into the crystal ball to compare training scores based on education and gender.
-
-4. **Performance Spells and Awards Charms:**
-   - Cast spells to uncover the connection between previous year's performance and awards.
-   - Weave a tale of correlation between KPIs and the laurels of victory.
 
 ## 🌟 Usage: Crafting Your Path
 
